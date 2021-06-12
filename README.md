@@ -9,7 +9,6 @@ Soy Ingeniero en Estadística informática, graduado en la Escuela Superior Poli
 
 &nbsp;
 
-![IMG_0958](https://user-images.githubusercontent.com/36687480/121758015-493d2e80-cae5-11eb-8fcb-fad42fc3e426.jpg)
 ### Mi pagina de Youtube
 &nbsp;
 https://www.youtube.com/channel/UCJB9r1HTE0xX9UidoO4TVdw

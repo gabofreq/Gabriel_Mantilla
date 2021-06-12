@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Acerca de mi 😄👋
+&nbsp;
+<div style="text-align: justify">
+Soy Ingeniero en Estadística informática, graduado en la Escuela Superior Politécnica del Litoral. Tengo experiencia en análisis de Datos en varios softwares de análisis de datos como R, Python y Matlab, y en softwares de inteligencia de Negocios como Power BI, Tableau y Qlikview. También eh desarrollado arquitectura de Datos en Sql Server y Exasol.</div>
+&nbsp;
+<div style="text-align: justify"> Estoy interesado en realizar análisis de datos profundo, como las metodologías de Machine Learning y Deep Learning, específicamente en el área de Pronósticos, ya sea a series de tiempo, o interpolación de imágenes de Satélite. Pero estoy abierto a nuevas ciencias y metodologías relacionadas con la computación.</div>
+&nbsp;
+<div style="text-align: justify"> Me considero una persona autodidacta, que se adapta rápidamente a los desarrollos tecnológicos. Estoy extremadamente motivado para aprender sobre nuevas cosas. En las últimas décadas, la computación y la estadística, han proporcionado herramientas que complementan otras ciencias, como los sistemas de información geográfica, la economía, la meteorología y la medicina.</div>
 
-You can use the [editor on GitHub](https://github.com/gabofreq/gabofreq.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+&nbsp;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gabofreq/gabofreq.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![IMG_0958](https://user-images.githubusercontent.com/36687480/121758015-493d2e80-cae5-11eb-8fcb-fad42fc3e426.jpg)
+### Mi pagina de Youtube
+&nbsp;
+https://www.youtube.com/channel/UCJB9r1HTE0xX9UidoO4TVdw
